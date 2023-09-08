@@ -26,8 +26,9 @@ Tested on
         <th> Version </th>
     </tr>
     <tr>
-        <td>Linux Mint</td>
-        <td> 19.2 Tina </td>
+        <td>Kali Linux/td>
+        <td>Parrot OS</td>
+        <td>Ubuntu and Archlinux</td>
     </tr>
 </table>
 
