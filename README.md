@@ -7,7 +7,7 @@ Installation
 =
 Dependencies will be automatically installed.
 
-    $ git clone https://github.com/MrSky3CSQD/DeadlyDeauther
+    $ git clone https://github.com/MrSky3CSQD/DeadlyDeauther.git
     $ cd DeadlyDeauther && sudo ./install.sh
     $ sudo DeadlyDeauther.sh
 
